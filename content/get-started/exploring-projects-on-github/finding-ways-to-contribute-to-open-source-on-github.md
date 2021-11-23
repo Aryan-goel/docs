@@ -30,7 +30,7 @@ Keep up with recent activity from repositories you watch and people you follow i
 
 ## Finding good first issues
 
-If you already know what project you want to work on, you can find beginner-friendly issues in that repository by visiting `github.com/<owner>/<repository>/contribute`. For an example, you can find ways to make your first contribution to `electron/electron` at https://github.com/electron/electron/contribute.
+If you already know what project you want to work on, you can find beginner-friendly issues in that repository by visiting `github.com/<owner>/<repository>/contribute`. For an example, you can find ways to make your first contribution to `cutenode/good-first-issue` at https://github.com/cutenode/good-first-issue#good-first-issue
 
 ## Opening an issue
 
